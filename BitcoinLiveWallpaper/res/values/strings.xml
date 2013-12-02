@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bitcoin Live Wallpaper</string>
+	<string name="wallpaper">Test</string>
+	<string name="info_message">Thanks for downloading! If you wish to see more products like this in the future please consider donating Bitcoin.</string>
+	<string name="donation_address">Donation Address:</string>
+	<string name="address">1Ec1ELcvGzZ4Va1SjQci72uRiw1VKBonBj</string>
+	<string name="installed">Your live wallpaper is now installed. You can find it under live wallpapers in settings.</string>
+	<string name="action_settings">Settings</string>
+</resources>
